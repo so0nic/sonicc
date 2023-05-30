@@ -1,1 +1,26 @@
 <head>
+/*Primero*/ 
+<style> 
+h1{
+	font-size:40px;
+}
+h2 {
+	font-size: 30px;
+}
+p {
+	font-size: 14px;
+}
+/*segundo*/
+p.light {
+	font-weight: lighter;
+}
+
+/* BORDES DE IMAGEN*/
+
+#rcorners2{
+  border-radius: 25px;
+  border:solid 2px #036;
+  widht: 200px;
+  height: 60 px;
+}
+</style>
