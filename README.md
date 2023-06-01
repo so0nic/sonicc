@@ -1,8 +1,7 @@
 <html>
 <head>
 <title>menu</title>
-</head>![sonic2](https://github.com/so0nic/sonicc/assets/127462489/e2490846-9666-4b18-a2ab-927230b49002)
-
+</head>
 
 <body>
 <font size="16"><b>Menu</b></font>
